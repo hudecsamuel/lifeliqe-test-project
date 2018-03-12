@@ -1,0 +1,35 @@
+
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# common IDE folders
+.classpath
+.project
+.settings
+.idea
+.metadata
+*.iml
+*.ipr
+.vscode
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# generated files
+/public/*
+
+stats.json
