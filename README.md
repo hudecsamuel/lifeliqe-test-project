@@ -1,4 +1,4 @@
-## LefiLique test project
+## Lifeliqe test project
 
 ### Info
 
